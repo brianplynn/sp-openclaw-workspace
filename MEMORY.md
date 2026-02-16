@@ -17,7 +17,12 @@
 
 ## Active Systems
 - **Retailer Agent** — cron daily 8:30am MST, reads Google Sheet, produces action report
-- **Daily Brief** — cron 9:00am MST, I compile and send to Telegram
+- **Image Gen Agent** — cron daily 6:00am MST, generates 5 AI images, saves report to daily-reports/
+- **Slideshow Agent** — cron daily 7:00am MST, creates slideshow + posts to TikTok drafts via PostBridge API
+- **Daily Brief** — cron 9:00am MST, I compile EVERYTHING and send to Telegram (retailer + content in one message)
+- **Video Agent** — PAUSED (Seedance too expensive)
+- PostBridge API: spoiled-pets/config.json (postbridge section), reference: spoiled-pets/postbridge-api.md
+- TikTok account ID: 44681 (shopspoiledpets)
 - Google Sheet webhook (Apps Script): spoiled-pets/config.json
 - Email templates (5-email sequence): spoiled-pets/email-templates.md
 - Agent architecture doc: spoiled-pets/agent-architecture.md

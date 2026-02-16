@@ -4,17 +4,41 @@
 
 ```
 Daedrien (Telegram)
-    ↕ approves images/videos, reviews posts
-Chat (Main Agent)
+    ↕ approves images/videos/slideshows via Telegram
+Chat (Main Agent) — processes approvals, moves to library
     ↕
-┌────────────────────┬──────────────────────┬───────────────────────┐
-│ Content Agent      │ UGC Image Generator  │ UGC Video Generator   │
-│ (daily post)       │ (5 images/day)       │ (Seedance)            │
-└────────────────────┴──────────────────────┴───────────────────────┘
+┌─────────────────────┬──────────────────────┬───────────────────────┐
+│ Slideshow Agent     │ UGC Image Generator  │ UGC Video Generator   │
+│ 7:00am MST daily    │ 6:00am MST daily     │ 6:30am MST daily      │
+│ (ACTIVE)            │ (ACTIVE)             │ (DISABLED — waiting   │
+│                     │                      │  for Seedance API)    │
+└─────────────────────┴──────────────────────┴───────────────────────┘
          ↓                    ↓                       ↓
-    PostBridge          Approval Queue           Approval Queue
-    (TikTok)          → Content Library         → Content Library
+  pending-approval/     pending-approval/      pending-approval/
+  slideshows/           images/                videos/
+         ↓                    ↓                       ↓
+    PostBridge          ✅ → ai-approved/       ✅ → ai-approved/
+    (TikTok)            ❌ → feedback log       ❌ → feedback log
 ```
+
+## Cron Job IDs
+- Image Generator: `d5e7be07-500e-448f-a489-c94390e1e467` (ACTIVE)
+- Video Generator: `8a6958a2-e2c5-4112-8ae8-205bbbed9606` (DISABLED)
+- Slideshow Creator: `8b036171-8d59-48df-ad04-4a3d179805d5` (ACTIVE)
+
+## Feedback Loop
+All agents read `spoiled-pets/content/prompt-feedback.md` before generating.
+Daedrien's approvals/rejections + feedback are logged there.
+Over time, prompts improve based on accumulated preferences.
+
+## Approval Flow
+1. Agent generates → saves to `pending-approval/`
+2. Chat sends batch to Daedrien on Telegram
+3. Daedrien responds: ✅ approve, ❌ reject, or feedback
+4. Chat processes:
+   - Approved → moves to `photo-library/ai-approved/`
+   - Rejected → logs feedback in `prompt-feedback.md`
+   - Updates `approved-library.json` with metadata
 
 ---
 

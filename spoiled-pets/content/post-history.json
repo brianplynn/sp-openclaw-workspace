@@ -1,0 +1,24 @@
+{
+  "posts": [
+    {
+      "date": "2026-02-16",
+      "type": "slideshow",
+      "pillar": "why-freeze-dried",
+      "topic": "kibble-cooked-at-400F",
+      "slides": 7,
+      "real_photos": 7,
+      "ai_photos": 0,
+      "status": "posted-to-drafts",
+      "postbridge_post_id": "d3962d6c-dbb9-462a-9b5a-c95241c3d8aa",
+      "photos_used": [
+        "20250626_214937_ED6E99.jpeg",
+        "20250615_125425_EADA31.jpeg",
+        "20250529_183946_E30A0C.jpeg",
+        "20250626_214937_E1B979.jpeg",
+        "20250624_134016_E8C159.jpeg",
+        "20250716_105411_E1A9A8.jpeg",
+        "20250624_133101_E04919.jpeg"
+      ]
+    }
+  ]
+}

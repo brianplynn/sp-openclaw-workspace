@@ -37,10 +37,17 @@
     "max_follow_ups": 5,
     "irl_reminder_days_before": 1
   },
+  "postbridge": {
+    "api_key": "pb_live_6Z2svp9z2YGaG7GoAoKUkm",
+    "base_url": "https://api.post-bridge.com",
+    "tiktok_account_id": 44681,
+    "tiktok_username": "shopspoiledpets",
+    "api_notes": "Bearer token auth. Flow: 1) POST /v1/media/create-upload-url → get media_id + upload_url, 2) PUT upload_url with file body, 3) POST /v1/posts with media IDs + social_accounts. For TikTok drafts: set platform_configurations.tiktok.draft=true"
+  },
   "content": {
     "tiktok_handle": "@shopspoiledpets",
     "scheduling_tool": "PostBridge",
-    "scheduling_cost": "$14/mo",
+    "scheduling_cost": "$14/mo + $5/mo API add-on",
     "photo_library": "https://drive.google.com/drive/folders/1c-A8YeylUWeIesNUU5nB8xCsFlbAtYjH",
     "image_gen": {
       "model": "gpt-image-1.5",
