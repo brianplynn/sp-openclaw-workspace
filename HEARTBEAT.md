@@ -1,5 +1,4 @@
 # HEARTBEAT.md
 
-# Keep this file empty (or with only comments) to skip heartbeat API calls.
-
-# Add tasks below when you want the agent to check something periodically.
+## Git Backup
+- Run: `cd /Users/daedrien-lynn/.openclaw/workspace && git add -A && git diff --cached --quiet || git commit -m "auto: workspace update $(date +%Y-%m-%d)" && git push`
