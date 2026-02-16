@@ -1,0 +1,16 @@
+# Session transcripts (contain full conversation history)
+*.jsonl
+*.jsonl.lock
+
+# OpenClaw internal state
+.openclaw/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Credentials (should never be here, but just in case)
+*.key
+*.pem
+credentials.json
+service-account.json

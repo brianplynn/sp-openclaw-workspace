@@ -1,0 +1,14 @@
+# Active Tasks
+*Read this FIRST on restart. Resume autonomously.*
+
+## In Progress
+- **Retailer Management System** — LIVE. Cron running daily 8:30am MST. Email templates written, webhook working. Daedrien reviewing/approving emails before send.
+- **Email drafts due Feb 17** — Zoey's Place (Kelly) + Riley's Natural (Michele). Template 1. Awaiting Daedrien's approval.
+
+## Blocked
+- **Content Creation Agent** — not started, waiting for Daedrien to prioritize
+- **Affiliate/UGC Agent** — not started, waiting for Daedrien to prioritize
+
+## Next Up
+- Look up missing contact info: Cosmo's Dog Bakery, Paw Prints (Mike), Black Paw, Dingo's
+- Set up email sending integration (currently manual)

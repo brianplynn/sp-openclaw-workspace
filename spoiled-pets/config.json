@@ -1,0 +1,40 @@
+{
+  "google_sheets": {
+    "webhook_url": "https://script.google.com/macros/s/AKfycbyM1M9tIT4zTwVM__OASkJRd131YwCJJzJe3VE_KA5Bv9ObTIRmn48KWhAUdLunE8Sd/exec",
+    "spreadsheet_id": "1lKT1vGE2qWrISCla9l-phFKjh_toIrDbF65xxqLqLuE",
+    "webhook_notes": "Use sheetName (not sheet). Plain urllib.request.urlopen() follows redirects automatically — do NOT use custom redirect handlers.",
+    "tabs": {
+      "denver_visits": "Denver Metro Area Visits",
+      "all_stores": "All Stores"
+    },
+    "denver_columns": {
+      "row_num": 1,
+      "store_name": 2,
+      "city": 3,
+      "address": 4,
+      "field_notes": 5,
+      "field_selections": 9,
+      "contact_name": 10,
+      "position": 11,
+      "email": 12,
+      "telephone": 13,
+      "website": 14,
+      "status": 15,
+      "date_visited": 16,
+      "last_email_sent": 17,
+      "next_follow_up": 18,
+      "follow_up_count": 19
+    }
+  },
+  "email": {
+    "from": "daedrien@shopspoiledpets.com",
+    "orders": "brian@shopspoiledpets.com",
+    "approval_required": true
+  },
+  "cadence": {
+    "first_follow_up_days": 7,
+    "subsequent_follow_up_days": 14,
+    "max_follow_ups": 5,
+    "irl_reminder_days_before": 1
+  }
+}
