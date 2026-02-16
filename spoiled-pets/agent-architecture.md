@@ -83,11 +83,24 @@ Located at: `spoiled-pets/email-templates.md`
 
 ---
 
-## Agent 2: Content Creation Agent (FUTURE)
-- Auto-posting TikToks/slideshows
-- Generating scripts from product info
-- Video editing automation
-- Reference: https://x.com/oliverhenry/status/2022011925903667547
+## Agent 2: Content Creation System (IN PROGRESS)
+**Full architecture:** `spoiled-pets/content-agent-architecture.md`
+**Content strategy:** `spoiled-pets/content-strategy.md`
+
+### Components
+- **Content Agent** — 1 TikTok post/day (educational focus), 7am MST
+- **UGC Image Generator** — 5 AI-generated images/day, 6am MST
+- **UGC Video Generator** — 2-3 Seedance videos/week
+
+### Tools & Platforms
+- **TikTok** (personal account — access to trending sounds)
+- **PostBridge** ($14/mo) — TikTok scheduling
+- **Seedance** — AI video generation
+- **Image gen tool** — TBD (DALL-E 3 / Flux / etc.)
+
+### Content Library
+- ~115 photos (PhotoCircle) + ~100 photos (Google Drive) + AI-generated
+- 5 pillars: Why Freeze-Dried, Ingredient Spotlights, Pet Health, Brand Story, UGC/Social Proof
 
 ---
 

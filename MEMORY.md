@@ -23,8 +23,18 @@
 - Agent architecture doc: spoiled-pets/agent-architecture.md
 - Outreach email: daedrien@shopspoiledpets.com
 
+## Content Creation System (In Progress — Feb 16)
+- **TikTok** personal account (not business — keeps trending sounds)
+- **PostBridge** ($14/mo) for scheduling
+- **Seedance** for AI video generation
+- 1 post/day, educational focus (nutritional benefits of freeze-dried)
+- UGC Image Generator: 5 AI images/day, Daedrien approves
+- UGC Video Generator: Seedance, 2-3/week, Daedrien approves
+- Photo library: ~115 (PhotoCircle) + ~100 (Google Drive) + AI-generated
+- Content strategy doc: spoiled-pets/content-strategy.md
+- Architecture doc: spoiled-pets/content-agent-architecture.md
+
 ## Future Agents (Not Yet Built)
-- Content Creation — TikTok/video automation
 - Affiliate/UGC — review applications, manage Shopify orders
 
 ## Preferences & Decisions
