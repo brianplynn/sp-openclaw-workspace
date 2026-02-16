@@ -36,5 +36,26 @@
     "subsequent_follow_up_days": 14,
     "max_follow_ups": 5,
     "irl_reminder_days_before": 1
+  },
+  "content": {
+    "tiktok_handle": "@shopspoiledpets",
+    "scheduling_tool": "PostBridge",
+    "scheduling_cost": "$14/mo",
+    "photo_library": "https://drive.google.com/drive/folders/1c-A8YeylUWeIesNUU5nB8xCsFlbAtYjH",
+    "image_gen": {
+      "model": "gpt-image-1.5",
+      "provider": "openai",
+      "images_per_day": 5,
+      "estimated_cost": "$3-6/mo"
+    },
+    "video_gen": {
+      "model": "seedance",
+      "provider": "bytedance/dreamina",
+      "videos_per_week": 3,
+      "plan": "basic",
+      "estimated_cost": "$18/mo"
+    },
+    "posting_frequency": "1x/day",
+    "content_focus": "educational - nutritional benefits of freeze-dried food"
   }
 }
