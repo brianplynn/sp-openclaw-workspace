@@ -35,8 +35,10 @@ Create a 5-7 slide structure:
 - Show Spoiled Pets products/brand
 - End with clear call to action
 
-### 4. Select photos
-For each slide, choose from:
+### 4. Select photos and ADD TEXT OVERLAYS
+**CRITICAL: Every slide MUST have text burned onto the image.** The text on the slides is what hooks viewers — nobody reads captions while swiping.
+
+For each slide, choose a photo from:
 
 **Real UGC Library:** `spoiled-pets/content/photo-library/` (48+ real photos)
 - Best for: product shots, pet + product, brand slides
@@ -53,6 +55,53 @@ For each slide, choose from:
 - Never use the same photo in consecutive posts
 - Match photo mood to slide content
 - Product packaging should be visible in at least 2 slides
+
+### 4b. Add text overlays to every slide
+
+Use the text overlay script at `spoiled-pets/content/scripts/add-text-overlay.py`:
+
+```bash
+python3 spoiled-pets/content/scripts/add-text-overlay.py \
+  <input_image> <output_image> "<slide text>" \
+  --style <hook|content|cta> --position <top|center|bottom>
+```
+
+**Styles:**
+- `hook` — Slide 1 (large bold text, max impact scroll-stopper)
+- `content` — Slides 2-5 (clean medium text, easy to read)
+- `cta` — Final slide (bold with emphasis)
+
+**Text overlay rules:**
+- Keep text SHORT: max 8-10 words per slide
+- Text must work standalone (viewer should get the story just from swiping)
+- Use the slide text overlays from Step 3 (the short punchy versions, NOT full sentences)
+- Save output images to `spoiled-pets/content/pending-approval/slideshows/YYYY-MM-DD/`
+
+**Example:**
+```bash
+# Slide 1 (hook)
+python3 spoiled-pets/content/scripts/add-text-overlay.py \
+  photo-library/product-shot.jpeg \
+  pending-approval/slideshows/2026-02-17/slide-1.jpeg \
+  "Your dog's kibble is cooked at 400°F." \
+  --style hook --position center
+
+# Slide 4 (content)
+python3 spoiled-pets/content/scripts/add-text-overlay.py \
+  photo-library/ingredient-shot.jpeg \
+  pending-approval/slideshows/2026-02-17/slide-4.jpeg \
+  "HTST pasteurized. AAFCO approved." \
+  --style content --position center
+
+# Slide 7 (CTA)
+python3 spoiled-pets/content/scripts/add-text-overlay.py \
+  photo-library/cute-pet.jpeg \
+  pending-approval/slideshows/2026-02-17/slide-7.jpeg \
+  "Your pet deserves better. ShopSpoiledPets.com" \
+  --style cta --position center
+```
+
+**Upload the TEXT-OVERLAID images to PostBridge, NOT the raw photos.**
 
 ### 5. Write the caption
 Structure:
