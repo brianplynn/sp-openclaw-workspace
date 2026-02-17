@@ -19,6 +19,26 @@
         "20250716_105411_E1A9A8.jpeg",
         "20250624_133101_E04919.jpeg"
       ]
+    },
+    {
+      "date": "2026-02-17",
+      "type": "slideshow",
+      "pillar": "ingredient-spotlights",
+      "topic": "wild-caught-alaskan-salmon",
+      "slides": 7,
+      "real_photos": 7,
+      "ai_photos": 0,
+      "status": "posted-to-drafts",
+      "postbridge_post_id": "2f566e41-4ac8-47d1-ac85-774ce078eaca",
+      "photos_used": [
+        "20250612_173432_E172EF.jpeg",
+        "20250609_063148_E02286.jpeg",
+        "20250530_075809_E59636.jpeg",
+        "20250624_133101_E4B26C.jpeg",
+        "20250624_142854_E0FC0C.jpeg",
+        "20250624_162112_EAB960.jpeg",
+        "20250716_121653_E7F8D1.jpeg"
+      ]
     }
   ]
 }
