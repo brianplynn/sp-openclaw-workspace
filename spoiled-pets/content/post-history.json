@@ -39,6 +39,26 @@
         "20250624_162112_EAB960.jpeg",
         "20250716_121653_E7F8D1.jpeg"
       ]
+    },
+    {
+      "date": "2026-02-18",
+      "type": "slideshow",
+      "pillar": "pet-health",
+      "topic": "cat-hydration-crisis",
+      "slides": 7,
+      "real_photos": 7,
+      "ai_photos": 0,
+      "status": "posted-to-drafts",
+      "postbridge_post_id": "61c6df92-17ef-4063-8733-42b4bd7bbda2",
+      "photos_used": [
+        "20250606_145818_ECEF4E.jpeg",
+        "20250613_120224_E2B429.jpeg",
+        "20250615_132419_EFBB67.jpeg",
+        "20250616_165258_E112EB.jpeg",
+        "20250624_140707_EA301C.jpeg",
+        "20250626_214937_E52241.jpeg",
+        "20250720_224126_E09BAE.jpeg"
+      ]
     }
   ]
 }
