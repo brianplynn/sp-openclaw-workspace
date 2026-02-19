@@ -18,6 +18,17 @@ Agents MUST read this file before generating to learn from past results.
 **Result:** Approved (usable) — AI-obvious
 **Lesson:** Dogs are hardest — fur texture, eye reflections give it away. Try more environmental context, partial views, slightly off-center framing
 
+### 2026-02-18 — Batch Feedback
+**Overall:** Daedrien says images need more UGC feel. The bags described in prompts are too generic ("black pet food bag with yellow accents") — they don't match actual product packaging. Updated image-gen-prompt.md with detailed visual descriptions from real UGC photos.
+
+**Key issues:**
+- Bag descriptions too vague → AI generates generic pet food bags that don't look like Spoiled Pets
+- Still too clean/polished — needs more authentic phone-camera messiness
+- Need to reference actual product details: cartoon animal faces, specific color blocking, matte finish pouches
+- Bowl shots should show the actual freeze-dried food texture: porous, airy, irregular tan/golden chunks — not smooth kibble
+
+**Action taken:** Rewrote Brand Reference section in image-gen-prompt.md with detailed visual specs for every product type (bags, treats, jars, food in bowls), based on scanning ~15 real UGC photos from the photo library.
+
 ### General Lessons Learned
 - Add "shot on iPhone 13" or "slightly blurry" to prompts for more realistic feel
 - Include minor imperfections: crumbs on counter, slightly messy background, uneven lighting

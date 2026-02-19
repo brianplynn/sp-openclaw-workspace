@@ -77,12 +77,56 @@ Batch saved to: [folder path]
 
 **DO NOT send anything directly to Telegram.** The daily brief agent will read your report, include the images in the morning briefing, and present them to Daedrien for approval.
 
-## Brand Reference
-- **Products:** Spoiled Pets freeze-dried meals (cat & dog), single-ingredient treats, hydration enhancers
-- **Packaging:** Black bags with yellow (dog/Spoiled Pup) or pink (cat/Spoiled Kitty) accents, cartoon animal faces
-- **Ingredients:** Wild-caught Alaskan salmon, cage-free Wisconsin chicken, pearl whitefish
-- **Aesthetic:** Modern, Gen Z, clean but fun — NOT clinical or sterile
-- **Key props:** Ceramic bowls, modern kitchen settings, cozy pet beds, natural settings
+## Brand Reference — DETAILED PRODUCT VISUALS
+
+⚠️ **READ THIS CAREFULLY.** These descriptions come from real product photos. Your AI images must match these details or they'll look fake/generic.
+
+### Spoiled Pup Bags (Dog Meals)
+- **Colors:** Bright YELLOW lower half, BLACK upper half
+- **Graphic:** Large cartoon dog face silhouette in black — two round white eyes with pupils, a white nose, and a drool/saliva drop below the nose. Pointy/fluffy ears at top. Playful, slightly scruffy style.
+- **Text:** "Spoiled Pup" in bold white font on the black area, "By Spoiled Pets" smaller below
+- **Flavors:** "Balanced Bowls — Chicken and Veggies" etc. in smaller text
+- **Size:** Medium stand-up pouch, flat bottom, resealable. Matte finish.
+
+### Spoiled Kitty Bags (Cat Meals)
+- **Colors:** Vibrant HOT PINK/MAGENTA background, large BLACK cat face panel
+- **Graphic:** Black cat silhouette with large white oval eyes, small white triangular nose, white whisker lines. Fuzzy/jagged edge to suggest fur.
+- **Text:** "Spoiled Kitty" in large white serif/display font, "By Spoiled Pets" below, "Complete Meals" and flavor like "Chicken + Salmon" in pink text
+- **Details:** "Good for all ages" near bottom. Glossy/metallic sheen on pink portions.
+- **Size:** Medium stand-up pouch, resealable.
+
+### Treat Bags (Cats & Dogs)
+- **Base color:** BLACK with colored accent borders:
+  - **Pink/salmon accent** = Salmon Filet flavor
+  - **Yellow accent** = Chicken Breast flavor  
+  - **Blue/cyan accent** = Pearl Whitefish flavor
+- **Graphic:** Stylized cat face in white on black (whiskers, pointed ears)
+- **Text:** "Spoiled Pets" in the accent color, "Treats for Cats and Dogs" above
+- **Claims:** "Raw Freeze Dried • USA Made • One Ingredient • Grain Free • Filler Free"
+- **Size:** Small pouches (1-2.5 oz), stand-up style
+
+### Hydration Enhancer Jars
+- **Shape:** Small, square-ish jars (1-2 oz) with BLACK screw-top lids
+- **Labels:** Spoiled Pets branding, flavors:
+  - "Golden Roost" — gold/yellow label
+  - "Coastal Pink" — pink label  
+  - "Feather & Fin" — dark/navy label
+- **Contents visible through jar:** Dark, granular/powdery texture, brownish-tan
+
+### Food Appearance (In Bowls)
+- **Dry/freeze-dried:** Small, irregular chunks/nuggets, TAN/GOLDEN-BROWN color. Porous, airy, lightweight texture — slightly rough and cratered surfaces. NOT smooth like kibble. Irregularly shaped, not uniform.
+- **Mixed in bowl:** Sometimes includes ORANGE pieces (sweet potato/salmon) and pinkish-mauve powder topper
+- **Rehydrated:** Darker, moist, resembles wet/raw food. Chunks soften and break down.
+- **Typical bowls:** White ceramic with ridged texture, or stainless steel
+
+### General Aesthetic
+- Modern, Gen Z, clean but fun — NOT clinical or sterile
+- Real UGC props: ceramic bowls, coffee mugs, car keys, kitchen clutter, cozy blankets
+- Pets often wear cute accessories (sweaters, bandanas, costumes)
+- Settings: kitchen counters, backyards with green grass, cozy couches, wooden tables
+
+### ⛔ CRITICAL — DO NOT include brand text on bags
+AI cannot reliably render text. Instead, describe the bag by its COLORS, GRAPHIC STYLE, and SHAPE only. Example: "a stand-up pet food pouch with a bright yellow lower half and black upper half featuring a cartoon dog face illustration with white eyes" — NOT "a bag that says Spoiled Pup."
 
 ## Approval Flow
 After you generate and report, Chat will send the batch to Daedrien on Telegram.
