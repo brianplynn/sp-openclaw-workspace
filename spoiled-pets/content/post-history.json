@@ -59,6 +59,26 @@
         "20250626_214937_E52241.jpeg",
         "20250720_224126_E09BAE.jpeg"
       ]
+    },
+    {
+      "date": "2026-02-19",
+      "type": "slideshow",
+      "pillar": "brand-story",
+      "topic": "dallas-diabetes-origin-story",
+      "slides": 7,
+      "real_photos": 7,
+      "ai_photos": 0,
+      "status": "posted-to-drafts",
+      "postbridge_post_id": "4e02cd03-8aa4-4f17-a78c-899d39b8bdaa",
+      "photos_used": [
+        "20250612_173623_EB51CD.jpeg",
+        "20250616_165258_ECB596.jpeg",
+        "20250624_133101_E51CCE.jpeg",
+        "20250624_134016_EECF10.jpeg",
+        "20250626_214937_E929EA.jpeg",
+        "20250624_140707_EF5BE5.jpeg",
+        "20250717_092337_E58F5B.jpeg"
+      ]
     }
   ]
 }
