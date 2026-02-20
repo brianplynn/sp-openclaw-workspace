@@ -79,6 +79,26 @@
         "20250624_140707_EF5BE5.jpeg",
         "20250717_092337_E58F5B.jpeg"
       ]
+    },
+    {
+      "date": "2026-02-20",
+      "type": "slideshow",
+      "pillar": "why-freeze-dried",
+      "topic": "freeze-dried-vs-raw-bacteria",
+      "slides": 7,
+      "real_photos": 7,
+      "ai_photos": 0,
+      "status": "posted-to-drafts",
+      "postbridge_post_id": "9d1ab586-f188-4683-a2a0-7d12d31ad615",
+      "photos_used": [
+        "20250530_075809_EAF831.jpeg",
+        "20250609_063148_E541D3.jpeg",
+        "20250624_133101_EF46F7.jpeg",
+        "20250624_134016_EE5BBB.jpeg",
+        "20250624_142854_E3C354.jpeg",
+        "20250626_214937_E7C0B4.jpeg",
+        "20250720_224126_ECFA3D.jpeg"
+      ]
     }
   ]
 }
