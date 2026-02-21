@@ -99,6 +99,26 @@
         "20250626_214937_E7C0B4.jpeg",
         "20250720_224126_ECFA3D.jpeg"
       ]
+    },
+    {
+      "date": "2026-02-21",
+      "type": "slideshow",
+      "pillar": "ingredient-spotlights",
+      "topic": "cage-free-wisconsin-chicken",
+      "slides": 7,
+      "real_photos": 7,
+      "ai_photos": 0,
+      "status": "posted-to-drafts",
+      "postbridge_post_id": "9b509f08-21fc-4171-834d-0fd654ad3907",
+      "photos_used": [
+        "20250615_125425_ED36F9.jpeg",
+        "20250624_142854_E7E044.jpeg",
+        "20250624_142854_EDC0A7.jpeg",
+        "20250626_214937_E8776C.jpeg",
+        "20250626_214937_EB07B3.jpeg",
+        "20250716_121653_EBCB3B.jpeg",
+        "20250716_132500_EFD300.jpeg"
+      ]
     }
   ]
 }
