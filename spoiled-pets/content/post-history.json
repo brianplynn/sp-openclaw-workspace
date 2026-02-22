@@ -119,6 +119,26 @@
         "20250716_121653_EBCB3B.jpeg",
         "20250716_132500_EFD300.jpeg"
       ]
+    },
+    {
+      "date": "2026-02-22",
+      "type": "slideshow",
+      "pillar": "pet-health",
+      "topic": "coat-health-omega-fatty-acids",
+      "slides": 7,
+      "real_photos": 7,
+      "ai_photos": 0,
+      "status": "posted-to-drafts",
+      "postbridge_post_id": "28abddbc-1516-4354-b3d6-186e02464ad7",
+      "photos_used": [
+        "20250612_173623_ECD3FB.jpeg",
+        "20250624_140707_EF11E1.jpeg",
+        "20250626_214937_E8FDFB.jpeg",
+        "20250624_162147_E74A1A.jpeg",
+        "20250626_214937_EF0279.jpeg",
+        "20250716_121653_EEF143.jpeg",
+        "20250529_183946_E30A0C.jpeg"
+      ]
     }
   ]
 }
