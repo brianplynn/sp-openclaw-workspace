@@ -139,6 +139,26 @@
         "20250716_121653_EEF143.jpeg",
         "20250529_183946_E30A0C.jpeg"
       ]
+    },
+    {
+      "date": "2026-02-23",
+      "type": "slideshow",
+      "pillar": "ugc-social-proof",
+      "topic": "first-time-freeze-dried-reaction",
+      "slides": 7,
+      "real_photos": 7,
+      "ai_photos": 0,
+      "status": "posted-to-drafts",
+      "postbridge_post_id": "0647911c-8cc7-41ce-8390-3f8be7c13b65",
+      "photos_used": [
+        "20250612_173432_E172EF.jpeg",
+        "20250624_133101_E4B26C.jpeg",
+        "20250615_125425_EADA31.jpeg",
+        "20250609_063148_E02286.jpeg",
+        "20250624_134016_EECF10.jpeg",
+        "20250720_224126_E09BAE.jpeg",
+        "20250624_140707_EA301C.jpeg"
+      ]
     }
   ]
 }
