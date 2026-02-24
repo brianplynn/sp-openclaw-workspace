@@ -159,6 +159,26 @@
         "20250720_224126_E09BAE.jpeg",
         "20250624_140707_EA301C.jpeg"
       ]
+    },
+    {
+      "date": "2026-02-24",
+      "type": "slideshow",
+      "pillar": "why-freeze-dried",
+      "topic": "what-human-grade-actually-means",
+      "slides": 7,
+      "real_photos": 7,
+      "ai_photos": 0,
+      "status": "posted-to-drafts",
+      "postbridge_post_id": "c1cd1a87-d238-41ab-9b4e-cc6def964d21",
+      "photos_used": [
+        "20250624_133101_E04919.jpeg",
+        "20250530_075809_E59636.jpeg",
+        "20250616_165258_E112EB.jpeg",
+        "20250624_142854_EDC0A7.jpeg",
+        "20250624_162112_EAB960.jpeg",
+        "20250716_105411_E1A9A8.jpeg",
+        "20250716_132500_EFD300.jpeg"
+      ]
     }
   ]
 }
