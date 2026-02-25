@@ -179,6 +179,26 @@
         "20250716_105411_E1A9A8.jpeg",
         "20250716_132500_EFD300.jpeg"
       ]
+    },
+    {
+      "date": "2026-02-25",
+      "type": "slideshow",
+      "pillar": "brand-story",
+      "topic": "why-not-on-amazon-indie-retail",
+      "slides": 7,
+      "real_photos": 7,
+      "ai_photos": 0,
+      "status": "posted-to-drafts",
+      "postbridge_post_id": "da0b425d-17cf-4d0a-9d58-9921c8657e20",
+      "photos_used": [
+        "20250626_214937_ED6E99.jpeg",
+        "20250626_214937_E1B979.jpeg",
+        "20250624_134016_E8C159.jpeg",
+        "20250624_142854_E0FC0C.jpeg",
+        "20250716_121653_E7F8D1.jpeg",
+        "20250606_145818_ECEF4E.jpeg",
+        "20250613_120224_E2B429.jpeg"
+      ]
     }
   ]
 }
