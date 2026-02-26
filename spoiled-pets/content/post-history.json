@@ -199,6 +199,26 @@
         "20250606_145818_ECEF4E.jpeg",
         "20250613_120224_E2B429.jpeg"
       ]
+    },
+    {
+      "date": "2026-02-26",
+      "type": "slideshow",
+      "pillar": "pet-health",
+      "topic": "transitioning-to-freeze-dried",
+      "slides": 7,
+      "real_photos": 7,
+      "ai_photos": 0,
+      "status": "posted-to-drafts",
+      "postbridge_post_id": "bfa2c001-1ef2-407c-b544-4da7344756b3",
+      "photos_used": [
+        "20250624_133101_EF46F7.jpeg",
+        "20250612_173623_EB51CD.jpeg",
+        "20250624_142854_E3C354.jpeg",
+        "20250615_132419_EFBB67.jpeg",
+        "20250624_140707_EF5BE5.jpeg",
+        "20250626_214937_E929EA.jpeg",
+        "20250716_121653_EBCB3B.jpeg"
+      ]
     }
   ]
 }
