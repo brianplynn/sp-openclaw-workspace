@@ -219,6 +219,26 @@
         "20250626_214937_E929EA.jpeg",
         "20250716_121653_EBCB3B.jpeg"
       ]
+    },
+    {
+      "date": "2026-02-27",
+      "type": "slideshow",
+      "pillar": "ingredient-spotlights",
+      "topic": "wild-caught-whitefish-omega-powerhouse",
+      "slides": 7,
+      "real_photos": 7,
+      "ai_photos": 0,
+      "status": "posted-to-drafts",
+      "postbridge_post_id": "37f40730-92bb-4356-af3a-543c8ad879ab",
+      "photos_used": [
+        "20250529_183946_E30A0C.jpeg",
+        "20250530_075809_EAF831.jpeg",
+        "20250609_063148_E541D3.jpeg",
+        "20250612_173432_E172EF.jpeg",
+        "20250612_173623_ECD3FB.jpeg",
+        "20250615_125425_ED36F9.jpeg",
+        "20250616_165258_ECB596.jpeg"
+      ]
     }
   ]
 }
