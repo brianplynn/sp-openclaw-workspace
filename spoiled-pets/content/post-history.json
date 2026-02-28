@@ -239,6 +239,26 @@
         "20250615_125425_ED36F9.jpeg",
         "20250616_165258_ECB596.jpeg"
       ]
+    },
+    {
+      "date": "2026-02-28",
+      "type": "slideshow",
+      "pillar": "why-freeze-dried",
+      "topic": "freeze-dried-vs-canned-ingredient-comparison",
+      "slides": 7,
+      "real_photos": 7,
+      "ai_photos": 0,
+      "status": "posted-to-drafts",
+      "postbridge_post_id": "4108ef1e-5562-44ab-a29f-f805e726ae65",
+      "photos_used": [
+        "20250530_075809_E59636.jpeg",
+        "20250609_063148_E02286.jpeg",
+        "20250615_125425_EADA31.jpeg",
+        "20250616_165258_E112EB.jpeg",
+        "20250624_133101_E04919.jpeg",
+        "20250624_133101_E4B26C.jpeg",
+        "20250624_133101_E51CCE.jpeg"
+      ]
     }
   ]
 }
