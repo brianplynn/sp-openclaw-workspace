@@ -279,6 +279,26 @@
         "20250720_224126_ECFA3D.jpeg",
         "20250624_134016_EECF10.jpeg"
       ]
+    },
+    {
+      "date": "2026-03-02",
+      "type": "slideshow",
+      "pillar": "pet-health",
+      "topic": "pet-diabetes-diet-causes-prevents",
+      "slides": 7,
+      "real_photos": 7,
+      "ai_photos": 0,
+      "status": "posted-to-drafts",
+      "postbridge_post_id": "2fdaf7a3-704e-41fb-8602-6a43406c39d6",
+      "photos_used": [
+        "20250624_162147_E74A1A.jpeg",
+        "20250626_214937_E52241.jpeg",
+        "20250624_140707_EF5BE5.jpeg",
+        "20250626_214937_E8FDFB.jpeg",
+        "20250624_142854_EDC0A7.jpeg",
+        "20250626_214937_E929EA.jpeg",
+        "20250720_224126_E09BAE.jpeg"
+      ]
     }
   ]
 }
