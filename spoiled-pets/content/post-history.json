@@ -299,6 +299,26 @@
         "20250626_214937_E929EA.jpeg",
         "20250720_224126_E09BAE.jpeg"
       ]
+    },
+    {
+      "date": "2026-03-03",
+      "type": "slideshow",
+      "pillar": "ugc-social-proof",
+      "topic": "real-ingredients-you-can-see",
+      "slides": 7,
+      "real_photos": 7,
+      "ai_photos": 0,
+      "status": "posted-to-drafts",
+      "postbridge_post_id": "a3eebfcc-9275-443b-8e9d-6722f8835c1c",
+      "photos_used": [
+        "20250530_075809_EAF831.jpeg",
+        "20250609_063148_E541D3.jpeg",
+        "20250612_173623_ECD3FB.jpeg",
+        "20250615_125425_ED36F9.jpeg",
+        "20250624_134016_EE5BBB.jpeg",
+        "20250626_214937_E7C0B4.jpeg",
+        "20250626_214937_EB07B3.jpeg"
+      ]
     }
   ]
 }
