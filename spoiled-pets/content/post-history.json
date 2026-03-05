@@ -319,6 +319,26 @@
         "20250626_214937_E7C0B4.jpeg",
         "20250626_214937_EB07B3.jpeg"
       ]
+    },
+    {
+      "date": "2026-03-05",
+      "type": "slideshow",
+      "pillar": "ingredient-spotlights",
+      "topic": "single-ingredient-treats",
+      "slides": 7,
+      "real_photos": 7,
+      "ai_photos": 0,
+      "status": "posted-to-drafts",
+      "postbridge_post_id": "d4183e50-ca12-4227-a0a3-96c189a3a25d",
+      "photos_used": [
+        "20250626_214937_ED6E99.jpeg",
+        "20250615_132419_EFBB67.jpeg",
+        "20250624_133101_E04919.jpeg",
+        "20250624_142854_E0FC0C.jpeg",
+        "20250613_120224_E2B429.jpeg",
+        "20250624_140707_EA301C.jpeg",
+        "20250716_121653_EEF143.jpeg"
+      ]
     }
   ]
 }
