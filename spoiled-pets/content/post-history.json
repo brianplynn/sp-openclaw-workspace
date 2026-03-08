@@ -379,6 +379,26 @@
         "20250624_140707_EF11E1.jpeg",
         "20250716_121653_EBCB3B.jpeg"
       ]
+    },
+    {
+      "date": "2026-03-08",
+      "type": "slideshow",
+      "pillar": "brand-story",
+      "topic": "small-batch-wisconsin-quality",
+      "slides": 7,
+      "real_photos": 7,
+      "ai_photos": 0,
+      "status": "posted-to-drafts",
+      "postbridge_post_id": "353c72f6-c9ad-483a-8bc3-a5767436bafa",
+      "photos_used": [
+        "20250626_214937_EF0279.jpeg",
+        "20250624_133101_EF46F7.jpeg",
+        "20250616_165258_ECB596.jpeg",
+        "20250624_134016_EECF10.jpeg",
+        "20250606_145818_ECEF4E.jpeg",
+        "20250717_092337_E58F5B.jpeg",
+        "20250716_132500_EFD300.jpeg"
+      ]
     }
   ]
 }
