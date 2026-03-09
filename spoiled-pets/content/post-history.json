@@ -399,6 +399,26 @@
         "20250717_092337_E58F5B.jpeg",
         "20250716_132500_EFD300.jpeg"
       ]
+    },
+    {
+      "date": "2026-03-09",
+      "type": "slideshow",
+      "pillar": "why-freeze-dried",
+      "topic": "freeze-dried-vs-dehydrated",
+      "slides": 7,
+      "real_photos": 7,
+      "ai_photos": 0,
+      "status": "posted-to-drafts",
+      "postbridge_post_id": "536748ad-1657-4c42-8dad-1003cc4cb6ab",
+      "photos_used": [
+        "20250626_214937_ED6E99.jpeg",
+        "20250609_063148_E02286.jpeg",
+        "20250530_075809_E59636.jpeg",
+        "20250624_133101_E4B26C.jpeg",
+        "20250624_142854_E0FC0C.jpeg",
+        "20250716_105411_E1A9A8.jpeg",
+        "20250720_224126_E09BAE.jpeg"
+      ]
     }
   ]
 }
