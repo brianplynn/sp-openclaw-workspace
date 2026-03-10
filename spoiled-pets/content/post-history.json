@@ -419,6 +419,26 @@
         "20250716_105411_E1A9A8.jpeg",
         "20250720_224126_E09BAE.jpeg"
       ]
+    },
+    {
+      "date": "2026-03-10",
+      "type": "slideshow",
+      "pillar": "ingredient-spotlights",
+      "topic": "hydration-enhancers-sprinkle-or-stir",
+      "slides": 7,
+      "real_photos": 7,
+      "ai_photos": 0,
+      "status": "posted-to-drafts",
+      "postbridge_post_id": "0594dfc5-e589-4003-85e3-f4dbb482ebe1",
+      "photos_used": [
+        "20250612_173623_ECD3FB.jpeg",
+        "20250624_133101_E51CCE.jpeg",
+        "20250615_132419_EFBB67.jpeg",
+        "20250624_134016_EE5BBB.jpeg",
+        "20250626_214937_E8776C.jpeg",
+        "20250624_142854_E3C354.jpeg",
+        "20250612_173623_EB51CD.jpeg"
+      ]
     }
   ]
 }
