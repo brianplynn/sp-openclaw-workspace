@@ -439,6 +439,26 @@
         "20250624_142854_E3C354.jpeg",
         "20250612_173623_EB51CD.jpeg"
       ]
+    },
+    {
+      "date": "2026-03-13",
+      "type": "slideshow",
+      "pillar": "pet-health",
+      "topic": "pet-obesity-hidden-fillers-in-kibble",
+      "slides": 7,
+      "real_photos": 7,
+      "ai_photos": 0,
+      "status": "posted-to-drafts",
+      "postbridge_post_id": "7f6fe0ae-0bfc-4b7d-8cc6-542cab46d5bc",
+      "photos_used": [
+        "20250626_214937_ED6E99.jpeg",
+        "20250609_063148_E02286.jpeg",
+        "20250624_133101_E04919.jpeg",
+        "20250624_134016_E8C159.jpeg",
+        "20250716_121653_E7F8D1.jpeg",
+        "20250624_140707_EA301C.jpeg",
+        "20250720_224126_ECFA3D.jpeg"
+      ]
     }
   ]
 }
