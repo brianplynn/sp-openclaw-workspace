@@ -459,6 +459,26 @@
         "20250624_140707_EA301C.jpeg",
         "20250720_224126_ECFA3D.jpeg"
       ]
+    },
+    {
+      "date": "2026-03-14",
+      "type": "slideshow",
+      "pillar": "ugc-social-proof",
+      "topic": "pet-parents-making-the-switch",
+      "slides": 7,
+      "real_photos": 7,
+      "ai_photos": 0,
+      "status": "posted-to-drafts",
+      "postbridge_post_id": "c435d232-e2a0-4c89-a668-cfa5bbd02bf2",
+      "photos_used": [
+        "20250612_173432_E172EF.jpeg",
+        "20250615_125425_EADA31.jpeg",
+        "20250624_142854_E3C354.jpeg",
+        "20250626_214937_E8776C.jpeg",
+        "20250624_133101_E51CCE.jpeg",
+        "20250716_121653_EEF143.jpeg",
+        "20250624_134016_EECF10.jpeg"
+      ]
     }
   ]
 }
